@@ -1,0 +1,22 @@
+{
+  "name": "vu3-d3-ts-tsjs-truffle",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-e2e-cypress": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-typescript": "~4.5.0",
+    "@vue/cli-plugin-unit-mocha": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-cli-plugin-quasar": "^3.0.1"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.0.0",
+    "@typechain/truffle-v5": "^4.0.1",
+    "d3": "^6.5.0",
+    "truffle": "^5.1.64"
+  }
+}
